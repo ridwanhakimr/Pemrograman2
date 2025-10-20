@@ -1,0 +1,14 @@
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\bin\Debug\net8.0\Modul1_gudangOOP.exe
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\bin\Debug\net8.0\Modul1_gudangOOP.deps.json
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\bin\Debug\net8.0\Modul1_gudangOOP.runtimeconfig.json
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\bin\Debug\net8.0\Modul1_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\bin\Debug\net8.0\Modul1_gudangOOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.AssemblyInfoInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.AssemblyInfo.cs
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\refint\Modul1_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\Modul1_gudangOOP.genruntimeconfig.cache
+C:\Users\LABKOM-VOKASI\source\repos\Modul1_gudangOOP\Modul1_gudangOOP\obj\Debug\net8.0\ref\Modul1_gudangOOP.dll

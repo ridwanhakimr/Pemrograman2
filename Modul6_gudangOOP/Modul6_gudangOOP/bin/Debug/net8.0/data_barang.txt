@@ -1,0 +1,7 @@
+Kode	Nama		Stok
+B001	Laptop		30
+B002	Smartphone	60
+B003	Kulkas		20
+B004	Televisi	10
+B005	Mesin Cuci	5
+B006	Baju		10	

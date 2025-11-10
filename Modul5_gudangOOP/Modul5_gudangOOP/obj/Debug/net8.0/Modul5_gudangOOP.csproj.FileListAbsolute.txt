@@ -1,0 +1,15 @@
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\bin\Debug\net8.0\Modul5_gudangOOP.exe
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\bin\Debug\net8.0\Modul5_gudangOOP.deps.json
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\bin\Debug\net8.0\Modul5_gudangOOP.runtimeconfig.json
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\bin\Debug\net8.0\Modul5_gudangOOP.dll
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\bin\Debug\net8.0\Modul5_gudangOOP.pdb
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.AssemblyInfoInputs.cache
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.AssemblyInfo.cs
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.csproj.CoreCompileInputs.cache
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.sourcelink.json
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.dll
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\refint\Modul5_gudangOOP.dll
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.pdb
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\Modul5_gudangOOP.genruntimeconfig.cache
+C:\Users\Ridwan HR\Documents\KULIAH\SEMESTER 3\Pemrograman2\pembelajaran\Modul5_gudangOOP\Modul5_gudangOOP\obj\Debug\net8.0\ref\Modul5_gudangOOP.dll

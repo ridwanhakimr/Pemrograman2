@@ -1,0 +1,15 @@
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\bin\Debug\net8.0\Modul2_gudangOOP.exe
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\bin\Debug\net8.0\Modul2_gudangOOP.deps.json
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\bin\Debug\net8.0\Modul2_gudangOOP.runtimeconfig.json
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\bin\Debug\net8.0\Modul2_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\bin\Debug\net8.0\Modul2_gudangOOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.AssemblyInfoInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.AssemblyInfo.cs
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.csproj.CoreCompileInputs.cache
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.sourcelink.json
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\refint\Modul2_gudangOOP.dll
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.pdb
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\Modul2_gudangOOP.genruntimeconfig.cache
+C:\Users\LABKOM-VOKASI\source\repos\Pemrograman2\Modul2_gudangOOP\Modul2_gudangOOP\obj\Debug\net8.0\ref\Modul2_gudangOOP.dll

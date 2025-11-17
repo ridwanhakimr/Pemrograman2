@@ -1,0 +1,6 @@
+Kode	  Nama		      Stok	Kategori
+
+B002J     Jagung              10        Buah             
+B001G     GOMU-GOMUNO         1         Buah           
+K0002     Kereta              2         Kendaraan      
+H0001     HandPhone           10        Elektronik     

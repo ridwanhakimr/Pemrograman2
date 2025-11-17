@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\interfaces\\ibarangprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\factories\\barangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\factories\\barangfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\services\\penyimpanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\services\\penyimpanbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\services\\inputbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\iperiksakadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\iperiksakadaluarsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\barangelektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\barangelektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\barangmakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\barangmakanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\barangkimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\barangkimia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\itemgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\itemgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\models\\stoknegatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\models\\stoknegatifexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\services\\pencetakbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|c:\\users\\ridwan hr\\documents\\kuliah\\semester 3\\pemrograman2\\pembelajaran\\modul7_gudangoop\\modul7_gudangoop\\modul7_gudangoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{239854E6-4011-4B84-BF80-68C9E7E95DEF}|Modul7_gudangOOP\\Modul7_gudangOOP.csproj|solutionrelative:modul7_gudangoop\\modul7_gudangoop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Program.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:57:00.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BarangElektronik.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangElektronik.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\BarangElektronik.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangElektronik.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\BarangElektronik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:25:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBarangPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Interfaces\\IBarangPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:18:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Helpers\\InputHelper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:15:15.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarangFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Factories\\BarangFactory.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Factories\\BarangFactory.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Factories\\BarangFactory.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Factories\\BarangFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:24:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPeriksaKadaluarsa.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\IPeriksaKadaluarsa.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\IPeriksaKadaluarsa.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\IPeriksaKadaluarsa.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\IPeriksaKadaluarsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:25:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PenyimpanBarang.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\PenyimpanBarang.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Services\\PenyimpanBarang.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\PenyimpanBarang.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Services\\PenyimpanBarang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:22:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputBarang.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\InputBarang.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Services\\InputBarang.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\InputBarang.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Services\\InputBarang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:17:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarangMakanan.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangMakanan.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\BarangMakanan.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangMakanan.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\BarangMakanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:25:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarangKimia.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangKimia.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\BarangKimia.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\BarangKimia.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\BarangKimia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:26:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemGudang.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\ItemGudang.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\ItemGudang.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\ItemGudang.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\ItemGudang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:25:51.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StokNegatifException.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\StokNegatifException.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Models\\StokNegatifException.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Models\\StokNegatifException.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Models\\StokNegatifException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:25:46.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PencetakBarang.cs",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\PencetakBarang.cs",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Services\\PencetakBarang.cs",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Services\\PencetakBarang.cs",
+              "RelativeToolTip": "Modul7_gudangOOP\\Services\\PencetakBarang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:19:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Modul7_gudangOOP",
+              "DocumentMoniker": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Modul7_gudangOOP.csproj",
+              "RelativeDocumentMoniker": "Modul7_gudangOOP\\Modul7_gudangOOP.csproj",
+              "ToolTip": "C:\\Users\\Ridwan HR\\Documents\\KULIAH\\SEMESTER 3\\Pemrograman2\\pembelajaran\\Modul7_gudangOOP\\Modul7_gudangOOP\\Modul7_gudangOOP.csproj",
+              "RelativeToolTip": "Modul7_gudangOOP\\Modul7_gudangOOP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T02:17:08.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

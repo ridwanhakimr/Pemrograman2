@@ -1,0 +1,32 @@
+﻿@* Baris ini mendeklarasikan bahwa View ini menerima sebuah LIST (IEnumerable) dari objek Barang *@
+@model IEnumerable<GudangWebApp.Models.Barang>
+
+@{
+    ViewData["Title"] = "Daftar Barang";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>Ini adalah halaman dinamis yang menampilkan data dari Controller.</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Kode</th>
+            <th>Nama Barang</th>
+            <th>Stok</th>
+            <th>Kategori</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* Di sini kita melakukan LOOPING (Perulangan) *@
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Kode</td>
+                <td>@item.Nama</td>
+                <td>@item.Stok</td>
+                <td>@item.Kategori</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "GudangWebApp.Controllers.BarangApiController",
+    "Method": "GetAll",
+    "RelativePath": "api/BarangApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GudangWebApp.Controllers.BarangApiController",
+    "Method": "Create",
+    "RelativePath": "api/BarangApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "barang",
+        "Type": "GudangWebApp.Models.Barang",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GudangWebApp.Controllers.BarangApiController",
+    "Method": "GetById",
+    "RelativePath": "api/BarangApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GudangWebApp.Controllers.BarangApiController",
+    "Method": "Update",
+    "RelativePath": "api/BarangApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "barang",
+        "Type": "GudangWebApp.Models.Barang",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GudangWebApp.Controllers.BarangApiController",
+    "Method": "Delete",
+    "RelativePath": "api/BarangApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
